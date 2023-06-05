@@ -1,4 +1,4 @@
-This is a food ordering website that allows users to browse menus, customize their orders, and make payments online. The website is built using HTML, CSS, JavaScript, Python, and MySQL.
+This is a food ordering website that allows users to browse menus, customize their orders, and make payments online. The website is built using HTML, CSS, JavaScript.
 
 ## Features
 
